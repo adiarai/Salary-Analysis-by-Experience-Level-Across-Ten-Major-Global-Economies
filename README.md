@@ -1,3 +1,5 @@
+<img width="727" height="453" alt="ad2" src="https://github.com/user-attachments/assets/cf41b538-2e32-4510-bc56-b2c0729a28f0" />
+<img width="679" height="656" alt="ad 1" src="https://github.com/user-attachments/assets/0d4b9748-5e52-4a26-8e97-98740ea00569" />
 📌 Project Overview
 
 This project analyzes data science salaries based on experience level and company size using Python.
